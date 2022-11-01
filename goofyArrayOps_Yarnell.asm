@@ -25,4 +25,5 @@ add $t3, $t0, $t1
 
 sw $t3, 12($s3)  # B[3] = t3
 
+syscall
 
